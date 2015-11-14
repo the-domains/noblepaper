@@ -1,6 +1,6 @@
 name: NoblePaper
 favicon: null
-layout_spectrum: 0.7748434387613088
+layout_spectrum: 0
 typography_spectrum: 0.36094737029634416
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#71a090'
     - '#030202'
   brandStrength: 1
-  lightness: 0.6188671223353595
-  saturation: 0.23186008958145976
+  lightness: 0.25
+  saturation: 0.5625
   rhythmicContrast: 0.7857378378976136
 purpose: []
