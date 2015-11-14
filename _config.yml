@@ -1,0 +1,23 @@
+name: NoblePaper
+favicon: null
+layout_spectrum: 0.7748434387613088
+typography_spectrum: 0.36094737029634416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3592808158136904
+  lightness: 0.6188671223353595
+  saturation: 0.23186008958145976
+  rhythmicContrast: 0.7857378378976136
+purpose: []
